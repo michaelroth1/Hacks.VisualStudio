@@ -10,3 +10,5 @@ Add an xml file (named: something.cd) with the following content to your project
 	<Font Name ="Segoe UI" Size="9" />
 </ClassDiagram>
 ```
+
+reopen it and you see the standard class designer
